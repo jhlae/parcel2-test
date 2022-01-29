@@ -1,9 +1,9 @@
 {
   "devDependencies": {
-    "@parcel/transformer-sass": "^2.0.0",
-    "parcel": "^2.0.0",
-    "parcel-plugin-custom-dist-structure": "^1.1.19",
-    "parcel-resolver-ignore": "^1.0.2"
+    "@parcel/transformer-sass": "^2.2.0",
+    "parcel": "^2",
+    "parcel-plugin-custom-dist-structure": "^1.1.18",
+    "parcel-resolver-ignore": "^2"
   },
   "dependencies": {
     "parcel-namer-custom": "^0.2.0"
