@@ -12,5 +12,5 @@ Some late Friday night localhost testing with Parcel 2.
 - Used the following command for building the web app
 
 ```
-npx parcel build src/index.html --public-url http://localhost/parcel-test --dist-dir ./
+npx parcel build src/index.html --public-url http://localhost/parcel2-test/dist
 ```
